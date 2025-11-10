@@ -22,3 +22,7 @@ Over 255 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Additional Problems I | 0/30 |
 | Additional Problems II | 0/30 |
 | **Total** | **255/366** |
+
+<h1>Editorials</h1>
+
+[**Wiki**](https://github.com/IsaMaharramov/CSES-Solutions/wiki/Editorials)
