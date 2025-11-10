@@ -1,0 +1,8 @@
+.vscode/ 
+*.exe 
+*.out 
+*.o 
+*.class 
+Thumbs.db 
+*.log 
+__pycache__/ 
